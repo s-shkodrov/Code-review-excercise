@@ -8,3 +8,4 @@
 # Some simple figures:
 ** triangle **
 ** square **
+** circle **
