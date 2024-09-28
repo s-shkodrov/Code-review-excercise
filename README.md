@@ -7,3 +7,4 @@
 ** sky blue **
 # Some simple figures:
 ** triangle **
+** square **
